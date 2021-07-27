@@ -21,10 +21,10 @@
 ### Network Traffic Analysis
 [Achievement Link](https://academy.hackthebox.eu/achievement/74398/81)
 
-### NETWORK ENUMERATION WITH NMAP
+### Network Enumeration with Nmap
 [Achievement Link](https://academy.hackthebox.eu/achievement/74398/19)
 
-### ATTACKING WEB APPLICATIONS WITH FFUF
+### Attacking Web Applications with FFUF
 [Achievement Link](https://academy.hackthebox.eu/achievement/74398/54)
 
 ### Login Brute Forcing
